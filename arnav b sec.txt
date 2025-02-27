@@ -1,0 +1,16 @@
+<h4>Arnav Bhoyar</h4>
+<h4>CS24079</h4>
+
+<html>
+<title>History of html</html>
+<p>HTML (HyperText Markup Language) was created by Tim Berners-Lee in 1991 as a way to
+ structure and link documents on the World Wide Web. HTML 2.0, the first official version, 
+was standardized in 1995. Over the years, HTML evolved with HTML 4.0 in 1999, introducing
+ CSS for design and improved structure. In the 2000s,<br> XHTML introduced stricter syntax
+ rules. HTML5, finalized in 2014, brought new features like multimedia support, new semantic 
+elements, and APIs for modern web applications. Today, HTML5 remains the standard for 
+development.</p>
+</html>
+
+
+
